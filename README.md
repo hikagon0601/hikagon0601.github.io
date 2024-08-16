@@ -1,0 +1,2 @@
+# kyudai_medical_weight
+githubとwebの練習のためと、医学部ウエイトトレーニング部のブログを作るために作りました。
